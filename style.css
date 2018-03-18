@@ -1,0 +1,72 @@
+ <style>
+
+  .content{
+
+  }
+  .zanr{
+    color: rgb(226, 52, 203);
+    text-decoration: underline;
+    text-align: center;
+  }
+   h1{
+      color: rgb(226, 157, 52);
+      font-style: oblique;
+      font-weight: 25px;
+      text-align: center;
+      font-weight: 88px;
+      font-size: 50px;
+      text-transform: normal;
+    }
+
+  p {
+    text-align: justify;
+
+  }
+
+  div{border: 5px solid orange;}
+  p. { text-align: center;
+    line-height: 150%;
+    margin: 10%;
+    padding: 50%;
+   }
+  
+  .zdroj{
+    font-style: oblique;
+  }
+  #uvod{ 
+  float: left; }
+
+
+  #pytel{
+    float: left;
+  }
+  h2{
+    color: rgb(226, 157, 52);
+    text-align: center;
+    font-family: fantasy;
+    font-weight: normal;
+  }
+  p{}
+  #soutez{float: left;}
+  #zaver
+  
+  p{}
+  section {text-align: center;}
+  
+  }
+
+
+     
+footer {float:center;}
+
+    body {
+      background: rgb(238, 242, 147);
+    }
+    #zaver{float: left;}
+
+
+
+
+
+
+  </style>
